@@ -1,0 +1,93 @@
+body div header{
+    width: 1520px;;
+    height: 140px;
+    background-color: #862f2c ;
+    margin-top: -10px;
+    margin-left: -9px;
+}
+body div header img{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+body div nav img{
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+body div nav{
+    width: 1520px;
+    height: 45px;
+    background-color: #a34340;
+    margin-left: -9px;
+}
+body div header h1{
+    margin-top: 10px;
+    font-size: 37px;
+    padding-top: 35px;
+}nav a img {
+    margin-top: 6px;
+    background-image: url(../imagenes/home.png);
+    width: 39px;
+    height: 32px;
+    padding-left: 0px;
+}
+#top header img {
+    margin-top: -108px;
+    width: 95px;
+    height: 90px;
+    margin-left: 10px;
+}
+.Footer{
+}
+.Footer .Footer {
+    background-color: #090909;
+    margin-left: -9px;
+    margin-bottom: -9px;
+    margin-right: -8px;
+    color: #FFFFFF;
+    height: 40px;
+    text-align: center;
+    font-family: architects-daughter;
+    font-style: normal;
+    font-weight: 400;
+}
+center h1 font {
+    margin-left: -213px;
+}
+#top #sec3 article {
+    margin-left: -6px;
+    padding-left: 0px;
+    text-indent: 1px;
+    text-align: justify;
+}
+article ol li {
+    text-indent: 17px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#sec3 article ol {
+    margin-left: 7px;
+}
+
+
+
+body div section h1{
+    font-size: 35px;
+}
+body div sec2 h1{
+    font-size: 35px;
+}
+body div sec3 h1{
+    font-size: 35px;
+}
+body div section article dd{
+    font-size: 20px;
+}
+body div section article dt{
+    font-size: 19px;
+}
+body div section article li{
+    font-size: 20px;
+}
+#sec3 article img{
+    margin-left: -25px;
+}
